@@ -5,7 +5,7 @@ body, html {
 }
 
 .background-image {
-    background-image: url('IMG-20240813-WA0002.jpg'); 
+    background-image: url('./IMG-20240813-WA0002.jpg'); 
     background-size: cover;  
     background-position: center;
     height: 100%;
